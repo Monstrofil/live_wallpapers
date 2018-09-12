@@ -1,0 +1,5 @@
+media
+.pyc
+.pyo
+.env
+.idea
